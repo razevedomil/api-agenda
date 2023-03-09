@@ -1,0 +1,16 @@
+{
+    "GET/tatuadores/list": "/cuidados/",
+    "POST/tatuadores/create": "/cuidados/",
+    "PUT/tatuadores/update/:id": "/cuidados/:id",
+    "DELETE/tatuadores/delete/:id": "/cuidados/:id",
+    
+    "GET/estilos/list": "/cuidados/",
+    "POST/estilos/create": "/cuidados/",
+    "PUT/estilos/update/:id": "/cuidados/:id",
+    "DELETE/estilos/delete/:id": "/cuidados/:id",
+    
+    "GET/eventos/list": "/cuidados/",
+    "POST/eventos/create": "/cuidados/",
+    "PUT/eventos/update/:id": "/cuidados/:id",
+    "DELETE/eventos/delete/:id": "/cuidados/:id"
+}
